@@ -88,7 +88,7 @@ Since clustering is unsupervised, evaluation focused on:
 
 | Model | No. of Clusters | Silhouette Score |
 |------|----------------|------------------|
-| KMeans (k=5) | 5 | Not Provided |
+| KMeans (k=5) | 5 | 0.17 |
 | KMeans (k=4) | 4 | 0.19 |
 | Hierarchical Clustering | 5 | 0.14 |
 
